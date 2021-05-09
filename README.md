@@ -14,8 +14,8 @@
 <a><img align= "right" width = "auto" height = 250 src="https://github.com/Jaishree-19/images/blob/main/octocat_gif.gif"></a>
  _I would love to connect with you! Find me around web 🌏:_
  <!--social-->
-[![LinkedIn Badge](https://img.shields.io/badge/-Jaishree_Tewari-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaishree-tewari-ba711a154/) 
-[![Gmail](https://img.shields.io/badge/-jaishree.alt@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:jaishree.alt@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jaishree_Tewari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaishree-tewari-ba711a154/) 
+[![Gmail](https://img.shields.io/badge/-jaishree.alt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jaishree.alt@gmail.com)
 
  _My Skills 👩‍💻:_
   
