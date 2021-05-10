@@ -11,7 +11,7 @@
 [![Gitstats](https://img.shields.io/badge/-Jaishree_Tewari-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/Jaishree-19)
 
 
-<a><img align= "right" width = "auto" height = 250 src="https://github.com/Jaishree-19/images/blob/main/octocat_gif.gif"></a>
+<a><img align= "right" width = "auto" height = 230 src="https://github.com/Jaishree-19/images/blob/main/octocat_gif.gif"></a>
  _I would love to connect with you! Find me around web 🌏:_
  <!--social-->
 [![LinkedIn Badge](https://img.shields.io/badge/-Jaishree_Tewari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaishree-tewari-ba711a154/) 
@@ -38,18 +38,6 @@
  ![pyCharm](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=042440)
  ![IntelliJ](https://img.shields.io/badge/Tools-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=042440) 
  </details>
+ <br>
   
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> There are 10 types of people in this world, those who know Binary and those who don't!
