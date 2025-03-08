@@ -3,7 +3,7 @@
 <!--Introduction -->
 <h1 align="center" style="font-size: 40px"> Hey there ! 👋</h1>
 <!--<img src="https://github.com/Jaishree-19/images/blob/main/programming-animation.gif" alt="side gif" align="left" width="100" height="auto" />-->
-<p >I'm Jaishree, a CSE undergrad from India. I am a passionate <b>coder</b> who is always ready to learn and experiment with new technologies. Do 🌟 my repository if you find my projects intresting!</p>
+<p >I'm Jaishree, a CSE postgard from India. I am a passionate <b>coder</b> who is always ready to learn and experiment with new technologies. Do 🌟 my repository if you find my projects intresting!</p>
 
 
 <!-- visits and gitstats-->
